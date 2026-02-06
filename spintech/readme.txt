@@ -2,10 +2,10 @@
 
 Contributors: burgersoftware
 Requires at least: 4.4
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 5.6
-Stable tag: 1.0.59
-Version: 1.0.59
+Stable tag: 1.0.65
+Version: 1.0.65
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Tags: one-column, two-columns, left-sidebar, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, footer-widgets, full-width-template, theme-options, threaded-comments, translation-ready, blog, grid-layout, portfolio, photography
@@ -97,6 +97,24 @@ License: CC0 Public Domain
 Clip Art & All other Images have been used in images folder, Created by Burger Software. Also they are GPL Licensed and free to use and free to redistribute further.
 
 == Changelog ==
+
+@version 1.0.65
+* Style Improvement
+
+@version 1.0.64
+* Woo Product Style Fixed
+
+@version 1.0.63
+* Fixed Block Style Margin
+
+@version 1.0.62
+* Fixed- Block Calendar Font Weight
+
+@version 1.0.61
+* WordPress 6.9 Tested
+
+@version 1.0.60
+* Block Image Caption Style Improvement
 
 @version 1.0.59
 * Block Calendar Style Improvement

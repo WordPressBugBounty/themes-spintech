@@ -4,8 +4,8 @@ Theme URI: https://burgerthemes.com/spintech-free/
 Author: burgersoftware
 Author URI: https://burgerthemes.com/
 Description: Spintech WordPress theme is specially designed for an IT & Software Company. Theme is perfectly for Startup, IT Solutions, Agencies, Marketing, Consulting, and Services Company related to any business websites. It has a modern & elegant look. 25+ prebuilt templates are ready in Pro version. Some awesome features are very useful for IT & Software company's websites, Such as Service, Portfolio, Team, Timeline, Gallery, Blog Pages, Shop Pages, Pricing Pages, Contact Page, Coming Soon Page and many more. Build your website in your native language with WPML & Polylang plugin. Checkout Pro Version https://burgerthemes.com/demo/pro/spintech/
-Version: 1.0.59
-Tested up to: 6.8
+Version: 1.0.65
+Tested up to: 6.9
 Requires PHP: 5.6
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -74,4 +74,20 @@ widget .wp-block-group .wp-block-rss li:last-child {
 }
 .wp-block-calendar table th {
     font-weight: 600;
+}
+.wp-block-image figcaption {
+text-align: center;
+}
+.wp-block-calendar table caption {
+    font-weight: 500;
+}
+sidebar .widget .wp-block-group .wp-block-pullquote blockquote {
+margin-top: 0;
+margin-bottom: 0;
+}
+.wp-block-woocommerce-single-product .wp-block-post-title a {
+    text-decoration: none;
+}
+table.wc-block-cart-items .wc-block-cart-items__row .wc-block-cart-item__quantity .wc-block-cart-item__remove-link {
+ text-decoration: none !important;
 }
