@@ -4,8 +4,8 @@ Contributors: burgersoftware
 Requires at least: 4.4
 Tested up to: 7.0
 Requires PHP: 5.6
-Stable tag: 1.0.72
-Version: 1.0.72
+Stable tag: 1.0.73
+Version: 1.0.73
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Tags: one-column, two-columns, left-sidebar, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, footer-widgets, full-width-template, theme-options, threaded-comments, translation-ready, blog, grid-layout, portfolio, photography
@@ -98,8 +98,11 @@ Clip Art & All other Images have been used in images folder, Created by Burger S
 
 == Changelog ==
 
+@version 1.0.73
+* Block Style Improvement
+
 @version 1.0.72
-Improved core List block link styling.
+* Improved core List block link styling.
 
 @version 1.0.71
 * Block Style Improvement
